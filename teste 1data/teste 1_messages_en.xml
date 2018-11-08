@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano22_title"><![CDATA[teste 1]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_roundedprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_roundednextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_roundedzoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_roundedzoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_roundedmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_roundedmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_roundedmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_roundedmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_roundedopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_roundedcloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_roundedautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_roundedautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_roundeddisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_roundedhideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_roundeddisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_roundedhideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_roundedctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_roundedctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_iprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_inextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_izoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_izoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_imoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_imoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_imoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_imoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_iopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_icloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_iautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_iautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_idisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_ihideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_idisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_ihideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_ictrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_ictrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+
+</krpano>
